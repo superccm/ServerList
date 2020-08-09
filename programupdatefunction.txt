@@ -3,4 +3,3 @@
 无线新闻台3(标清)，http://news.tvb.com/live/inews?is_sd，javascript:function getSource(){return vjvars.vdo_url} getSource();
 无线新闻台4(高清)，http://news.tvb.com/live/inews?is_hd，javascript:function getSource(){var sources = document.getElementsByTagName('source');return sources[0].src} getSource();
 翡翠台，https://www.tvzhibo.com/tv/xianggangfct.html，javascript:function getSource(){var video= document.getElementsByTagName('video');var link = video[0].getAttribute('src');return link;} getSource();
-javascript:function getSource(){var a = document.getElementById('ml_2163841').getElementsByTagName('a')[0];a.click();var link = document.getElementById('W_18700199').getElementsByTagName('a')[0].getAttribute('href');return link;}getSource();
