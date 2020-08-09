@@ -1,0 +1,2 @@
+小铭的Github之全球电视，https://github.com/superccm/programupdate/blob/master/programupdate.txt，javascript:function getSource(){var b='';var a = document.getElementsByClassName('js-file-line'); for(i = 0;i<a.length;i++){b = b + a[i].innerHTML+'\n'}return b;}getSource();
+小铭的Github之午夜剧场，https://github.com/superccm/programupdate/blob/master/MidnightProgram.txt，javascript:function getSource(){var b='';var a = document.getElementsByClassName('js-file-line'); for(i = 0;i<a.length;i++){b = b + a[i].innerHTML}return b;}getSource();
