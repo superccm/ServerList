@@ -1,1 +1,1 @@
-小铭的Github之全球电视，https://github.com/superccm/programupdate/blob/master/programupdate.txt，javascript:function getSource(){var b='';var a = document.getElementsByClassName('js-file-line'); for(i = 0;i<a.length;i++){b = b + a[i].innerText}return b;}getSource();
+小铭的Github之全球电视，https://github.wuyanzheshui.workers.dev/superccm/programupdate/blob/master/programupdate.txt，javascript:function getSource(){var b='';var a = document.getElementsByClassName('js-file-line'); for(i = 0;i<a.length;i++){b = b + a[i].innerText}return b;}getSource();
